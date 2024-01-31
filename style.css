@@ -400,10 +400,10 @@ nav ul li a:hover {
 
 /* UKURAN MOBILE */
 @media screen and (max-width: 480px) {
-  /* NAVBAR */    
-body {
-    overflow-x: hidden;
-}
+  /* NAVBAR */ 
+    nav {
+        margin-right: -50px;
+    }
     
 .menu-toggle {
       display: flex;
