@@ -402,7 +402,7 @@ nav ul li a:hover {
 @media screen and (max-width: 480px) {
   /* NAVBAR */ 
     nav {
-        margin-right: -50px;
+        position: fixed;
     }
     
 .menu-toggle {
